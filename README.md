@@ -25,3 +25,8 @@ To view this project locally, follow these steps:
    ```bash
    cd Nvidia-Driver-Page-Clone
 3. Open index.html in your browser.
+
+## 📞 Contact
+For any queries, feel free to reach out:
+- **GitHub**: [Ajeet Verma](https://github.com/ajeetverma01)
+- 📧 **Email**: av401402@gmail.com
